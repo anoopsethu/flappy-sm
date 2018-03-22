@@ -312,7 +312,7 @@ Screen - Game
 {
    position: absolute;
    width: 34px;
-   height: 19px;
+   height: 26px;
    background-image: url('../assets/bird1.png');
    
    -webkit-animation: animBird 300ms steps(4) infinite;
