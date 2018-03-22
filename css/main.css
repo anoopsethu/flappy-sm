@@ -203,8 +203,14 @@ Screen - Game
 {
    position: absolute;
    top: 20px;
-   left: 150px;
-   z-index: 100;
+   /*left: 150px;
+   z-index: 100;*/
+
+   margin-left: auto;
+   margin-right: auto;
+   left: 0;
+   right: 0;
+   text-align: center;
 }
 
 #bigscore img
@@ -311,7 +317,7 @@ Screen - Game
 
 #player
 {
-   left: 60px;
+   left: 150px;
    top: 200px;
 }
 
