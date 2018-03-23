@@ -349,7 +349,7 @@ Screen - Game
    position: absolute;
    top: 0;
    width: 52px;
-   background-image: url('../assets/pipe.png');
+   background-image: url('../assets/pipe1.png');
    background-repeat: repeat-y;
    background-position: center;
 }
@@ -361,7 +361,7 @@ Screen - Game
    bottom: 0;
    width: 52px;
    height: 26px;
-   background-image: url('../assets/pipe-down.png');
+   background-image: url('../assets/pipe-down-1.png');
 }
 
 .pipe_lower
@@ -369,7 +369,7 @@ Screen - Game
    position: absolute;
    bottom: 0;
    width: 52px;
-   background-image: url('../assets/pipe.png');
+   background-image: url('../assets/pipe2.png');
    background-repeat: repeat-y;
    background-position: center;
 }
@@ -381,7 +381,7 @@ Screen - Game
    top: 0;
    width: 52px;
    height: 26px;
-   background-image: url('../assets/pipe-up.png');
+   background-image: url('../assets/pipe-up-1.png');
 }
 
 #footer
