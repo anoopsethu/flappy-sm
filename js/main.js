@@ -330,13 +330,13 @@ function setMedal()
       //signal that no medal has been won
       return false;
    
-   if(score >= 10)
+   if(score >= 5)
       medal = "bronze";
-   if(score >= 20)
+   if(score >= 10)
       medal = "silver";
-   if(score >= 30)
+   if(score >= 15)
       medal = "gold";
-   if(score >= 40)
+   if(score >= 25)
       medal = "platinum";
    
    elemmedal.append('<img src="assets/medal_' + medal +'.png" alt="' + medal +'">');
