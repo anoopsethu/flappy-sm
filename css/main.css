@@ -431,4 +431,10 @@ Screen - Game
    #footer{
       font-size: 14px;
    }
+   #currentscore{
+      left: 90px;
+   }
+   #highscore{
+      left: 90px;
+   }
 }
