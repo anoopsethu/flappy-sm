@@ -408,7 +408,7 @@ Screen - Game
    color: #fff;
 }
 
-@media(max-width: 670px){
+@media(max-width: 660px){
    #player {
       left: 70px;
    }
