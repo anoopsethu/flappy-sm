@@ -390,9 +390,10 @@ Screen - Game
 
 #footer
 {
-   position: absolute;
-   bottom: 3px;
-   left: 3px;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    font-size: 16px;
 }
 
 #footer a,
@@ -408,11 +409,10 @@ Screen - Game
 }
 
 @media(max-width: 680px){
-   #player{
+   #player {
       left: 70px;
    }
-   #scoreboard
-   {
+   #scoreboard {
       position: absolute;
       display: none;
       opacity: 0;
@@ -427,5 +427,8 @@ Screen - Game
       left: 0;
       right: 0;
       z-index: 1000;
+   }
+   #footer{
+      font-size: 14px;
    }
 }
