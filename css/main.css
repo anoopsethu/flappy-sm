@@ -258,7 +258,7 @@ Screen - Game
    position: absolute;
    opacity: 0;
    top: 114px;
-   left: 32px;
+   left: 173px;
    width: 44px;
    height: 44px;
 }
@@ -267,7 +267,7 @@ Screen - Game
 {
    position: absolute;
    top: 86px;
-   left: 195px;
+   left: 180px;
    width: 104px;
    height: 14px;
    text-align: right;
@@ -282,7 +282,7 @@ Screen - Game
 {
    position: absolute;
    top: 128px;
-   left: 195px;
+   left: 180px;
    width: 104px;
    height: 14px;
    text-align: right;
@@ -436,5 +436,8 @@ Screen - Game
    }
    #highscore{
       left: 90px;
+   }
+   #medal{
+      left: 74px;
    }
 }
