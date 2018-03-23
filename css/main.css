@@ -256,7 +256,7 @@ Screen - Game
 #medal
 {
    position: absolute;
-   opacity: 0;
+   opacity: 1;
    top: 114px;
    left: 173px;
    width: 44px;
