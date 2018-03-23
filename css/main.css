@@ -261,6 +261,7 @@ Screen - Game
    left: 173px;
    width: 44px;
    height: 44px;
+   background-image: url('../assets/medal-bronze.png');
 }
 
 #currentscore
