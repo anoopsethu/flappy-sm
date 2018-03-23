@@ -392,9 +392,11 @@ Screen - Game
 #footer
 {
     text-align: center;
+    line-height: 1.4;
     position: absolute;
     bottom: 15px;
     left: 15px;
+    right: 15px;
     font-size: 16px;
 }
 
